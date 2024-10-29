@@ -1,0 +1,13 @@
+2- BETA
+Federico Santamaria 
+
+Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+
+La hora actual es: 18:40:12
+
+3- GAMMA
+Quiroga Victoria
+
+Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+
+La hora actual es: 17:06:50,70
