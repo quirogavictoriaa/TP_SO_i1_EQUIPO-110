@@ -1,0 +1,24 @@
+Santamaria Federico 
+
+c_ Si, si BETA agrega un archivo, ALFA y GAMMA podrán ver el archivo una vez hecho el GIT PUSH subiendo los cambios al repositorio de GitHub.
+
+d_ Al principio nos comunicamos vía mail para poder contactarnos, luego usamos comentarios de GitHub, chats y Discord para poder resolver el Trabajo de la mejor manera y mas coordinada posible.
+
+Quiroga Victoria
+
+a_ No, ya que el repositorio local pertenece a la computadora de cada integrante, del cual, el resto no tiene acceso para mirar y realizar modificaciones.
+
+b_ Depende, porque si hablamos de agregar un archivo al repositorio local, como se explicó en el anterior punto, personas ajenas a nosotros no pueden ver ni modificarlo.
+    En el caso de referirse a agregar archivos a GitHub, ahí sí puede tanto leerse como también ser modificado por otros colaboradores que tengan dichos permisos.
+
+e_ Existen varias herramientas que ayudan a la comunicación entre colaboradores, dichas herramientas pueden ser:
+
+    *ISSUES: se utilizan para evidenciar un error a corregir en el futuro, donde todos los colaboradores pueden participar y/o etiquetar otros miembros.
+    
+    *PULL REQUESTS: logra que los colaboradores revisen entre sí cambios en el código antes de subirlos al proyecto.
+
+    *DISCUSSIONS: es como un foro por el cual se proponen ideas o se aclaran dudas.
+
+    *MENCIONES: se escribe el nombre de usuario (@nombredeusuario) para alertar a un colaborador en particular según se requiera.
+    
+    *PROJECTS: ayuda en la parte de organización, gestión de tareas y asignación de responsabilidades por tablones, donde se puede comentar y ver el progreso del grupo.
